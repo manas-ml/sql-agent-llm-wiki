@@ -30,7 +30,7 @@ should plausibly get most of them wrong.
 ## Project structure
 
 ```
-llm-wiki-text2sql/
+.
 ├── data/                    # generated sample.db lives here
 ├── raw_sources/             # immutable schema dump (Layer 1)
 ├── wiki/
